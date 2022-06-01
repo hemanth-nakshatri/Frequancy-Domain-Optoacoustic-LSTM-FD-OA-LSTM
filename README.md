@@ -5,7 +5,7 @@ This is a novel Deep learning approach for the frequency domain photoacoustic re
 Set the path and other parameters in the beginning of the _FD-OA LSTM.ipynb_ file.
 
 ## Step 1. Generate forward model dataset for training
-Generate the forward model dataset for training using the _Generate Data Final.ipynb_ by setting correct path for source and output. To be done separately for 150 degree FOV and 300 degree FOV.
+Generate slices using the three 3D numeric phantoms in the folder _Breast Phantom 3D_. Then generate the forward model dataset for training using the _Generate Data Final.ipynb_ by setting correct path for source and output. To be done separately for 150 degree FOV and 300 degree FOV. The original source of the 3D phantom is 
 
 ## Step 2. Train the model
 Train the model using _FD-OA LSTM.ipynb_ after setting the appropriate parameters. Both the models are trained for data with 40dB SNR in the data and tested with data containg 20dB, 30dB and 40dB SNR.
