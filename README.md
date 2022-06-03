@@ -1,4 +1,4 @@
-# Frequancy-Domain-Optoacoustic-LSTM-FD-PA-LSTM-
+# Frequancy-Domain-Optoacoustic-LSTM-FD-PA-LSTM
 This is a novel LSTM based deep learning approach for the frequency domain photoacoustic reconstruction using LSTM.
 
 ## Parameters
