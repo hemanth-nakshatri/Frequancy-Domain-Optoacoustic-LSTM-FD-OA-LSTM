@@ -1,5 +1,5 @@
 # Frequancy-Domain-Optoacoustic-LSTM-FD-OA-LSTM-
-This is a novel Deep learning approach for the frequency domain photoacoustic reconstruction using LSTM.
+This is a novel LSTM based deep learning approach for the frequency domain photoacoustic reconstruction using LSTM.
 
 ## Parameters
 Set the path and other parameters in the beginning of the _FD-OA LSTM.ipynb_ file.
