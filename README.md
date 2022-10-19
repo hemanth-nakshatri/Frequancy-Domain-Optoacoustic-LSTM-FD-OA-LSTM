@@ -12,3 +12,5 @@ Train the model using _FD-PA LSTM.ipynb_ after setting the appropriate parameter
 
 ## Step 3. Test the performance
 Validate the model using the test data and also compare PSNR and SSIM.
+
+### Files for training DL models based on ResNet, UNet, AUTOMAP, and Recon + UNet is also included
